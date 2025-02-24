@@ -1,0 +1,13 @@
+[project]
+name = "machine-learning-of-dynamical-systems-using-recurrent-neural-networks"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10, <3.12"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "keras>=3.8.0",
+    "matplotlib>=3.10.0",
+    "numpy>=2.0.2",
+    "tensorflow==2.4.0",
+]
