@@ -6,6 +6,7 @@ __pycache__/
 # C extensions
 *.so
 /notebook/models/*
+*.npy
 
 # Distribution / packaging
 .Python

@@ -17,7 +17,8 @@ create venv by
 ```
 uv venv
 ```
-and install packages
+then enter the venv and install packages
 ```
+source .venv/bin/activate
 uv sync
 ```
